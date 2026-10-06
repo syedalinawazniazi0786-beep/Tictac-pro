@@ -1,10 +1,11 @@
 {
   "name": "Tic Tac Pro",
   "short_name": "TicTacPro",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#020617",
   "theme_color": "#0f172a",
+  "description": "An advanced Tic Tac Pro game with AdMob support.",
   "icons": [
     {
       "src": "icon.png",
@@ -13,3 +14,4 @@
     }
   ]
 }
+
